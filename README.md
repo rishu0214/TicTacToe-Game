@@ -1,1 +1,1 @@
-this is a game
+this is a two player's game
